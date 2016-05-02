@@ -2,14 +2,14 @@
 
 A material design based spinner react component
 
-### [Demo](https://gokulkrishh.github.io/demo/react-material-spinner/index.html)
+### [Demo](https://git.io/vwyRL)
 
 ![screenshot](https://raw.githubusercontent.com/gokulkrishh/react-material-spinner/master/screenshot.png)
 
-## Install: WIP
+## Install:
 
 ```sh
-# npm install --save react-material-spinner
+npm install --save react-material-spinner
 ```
 
 ## Usage:

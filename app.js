@@ -9,19 +9,6 @@ export default class MDSpinner extends React.Component {
 
   constructor(props) {
     super(props);
-    this.state = { show: false };
-  }
-
-  show() {
-    this.setState({
-      show: true
-    });
-  }
-
-  hide() {
-    this.setState({
-      show: false
-    });
   }
 
   render() {
@@ -35,9 +22,7 @@ export default class MDSpinner extends React.Component {
     return (
       <div
         className='md-spinner'
-        hideSpinner={this.hide}
         style={mdStyles}
-        showSpinner={this.show}>
       </div>
     );
   }
