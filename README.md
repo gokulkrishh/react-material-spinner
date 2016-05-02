@@ -2,4 +2,36 @@
 
 A material design based spinner react component
 
-!()[]
+### [Demo](https://gokulkrishh.github.io/demo/react-material-spinner/index.html)
+
+![screenshot](https://raw.githubusercontent.com/gokulkrishh/react-material-spinner/master/screenshot.png)
+
+## Install: WIP
+
+```sh
+# npm install --save react-material-spinner
+```
+
+## Usage:
+
+```js
+var MDSpinner = require('MDSpinner');
+
+<MDSpinner
+  width={optional} /* Default 15px */
+  height={optional} /* Default 15px */
+  borderColor={optional} /* Default #4285f4 */
+/>
+```
+
+## Props:
+
+```js
+width: string,
+height: string,
+borderColor: string
+```
+
+### Licence
+
+MIT
