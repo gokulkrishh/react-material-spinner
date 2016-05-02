@@ -15,7 +15,7 @@ npm install --save react-material-spinner
 ## Usage:
 
 ```js
-var MDSpinner = require('MDSpinner');
+var MDSpinner = require('react-material-spinner');
 
 <MDSpinner
   width={optional} /* Default 15px */

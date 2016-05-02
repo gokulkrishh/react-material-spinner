@@ -1,11 +1,7 @@
 {
   "name": "react-material-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A material design based spinner react component",
-  "scripts": {
-    "start": "node server.js",
-    "lint": "eslint src"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gokulkrishh/react-material-spinner.git"
