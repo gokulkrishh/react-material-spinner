@@ -2,6 +2,8 @@
 
 A material design based spinner react component
 
+[![npm version](https://badge.fury.io/js/react-material-spinner.svg)](https://badge.fury.io/js/react-material-spinner)
+
 ### [Demo](https://git.io/vwyRL)
 
 ![screenshot](https://raw.githubusercontent.com/gokulkrishh/react-material-spinner/dev/screenshot.png)
