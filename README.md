@@ -4,7 +4,7 @@ A material design based spinner react component
 
 ### [Demo](https://git.io/vwyRL)
 
-![screenshot](https://raw.githubusercontent.com/gokulkrishh/react-material-spinner/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/gokulkrishh/react-material-spinner/dev/screenshot.png)
 
 ## Install:
 
