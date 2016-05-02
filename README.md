@@ -6,10 +6,10 @@ A material design based spinner react component
 
 ![screenshot](https://raw.githubusercontent.com/gokulkrishh/react-material-spinner/master/screenshot.png)
 
-## Install: WIP
+## Install:
 
 ```sh
-# npm install --save react-material-spinner
+npm install --save react-material-spinner
 ```
 
 ## Usage:
